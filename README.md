@@ -125,7 +125,7 @@ GROUP BY order_month
 ORDER BY order_month;
 ```
 
-## Dashboard in Looker Studio
+## Dashboard in Looker Studio (https://lookerstudio.google.com/s/pU_30W2X4Tc)
 - Connected BigQuery view directly to Looker Studio
 - Used order_month as Date dimension
 - Visual elements:
